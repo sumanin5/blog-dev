@@ -1,0 +1,11 @@
+# GitOps 同步状态文件（不需要提交）
+.gitops_last_sync
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
