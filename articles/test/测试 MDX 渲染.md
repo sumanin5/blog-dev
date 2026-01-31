@@ -1,6 +1,8 @@
 ---
 allow_comments: true
+author: admin
 author_id: 019bf51f-04fb-75b8-8d9a-2e910fee7111
+category: test
 category_id: 019bf54f-21c2-7dca-9659-7f57a46140ef
 date: '2026-01-25 21:21:45'
 enable_jsx: false
@@ -11,7 +13,6 @@ meta_title: ''
 slug: mdx-render-test-0yxtub
 status: published
 summary: 这是一篇通过 GitOps 自动同步的测试文章，演示了如何通过本地 Markdown 文件管理博客内容。
-tags: []
 title: 测试 MDX 渲染
 use_server_rendering: true
 ---
