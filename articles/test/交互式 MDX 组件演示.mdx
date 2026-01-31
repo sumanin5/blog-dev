@@ -1,0 +1,75 @@
+---
+allow_comments: true
+author_id: 019bf51f-04fb-75b8-8d9a-2e910fee7111
+category_id: 019bf54f-21c2-7dca-9659-7f57a46140ef
+date: '2026-01-25 21:21:45'
+enable_jsx: true
+is_featured: false
+meta_description: ''
+meta_keywords: ''
+meta_title: ''
+slug: interactive-mdx-demo-a21ja3
+status: published
+summary: 这是一个真正的 MDX 文件，包含可交互的 React 组件
+tags:
+- MDX
+- React
+- Interactive
+title: 交互式 MDX 组件演示
+use_server_rendering: true
+---
+
+# 交互式 MDX 演示
+
+这是一个真正的 MDX 文件，可以直接在 Markdown 中嵌入 React 组件。
+
+## 1. 普通 Markdown 内容
+
+这是普通的文本段落，支持 **粗体**、*斜体*、`代码`等。
+
+## 2. 内联 JSX 组件
+
+下面是一个简单的按钮组件：
+
+<div style={{ padding: '20px', background: '#f0f0f0', borderRadius: '8px', margin: '20px 0' }}>
+  <p style={{ color: '#333', fontSize: '18px' }}>这是一个内联的 JSX 元素</p>
+  <InteractiveButton message="Hello from MDX!">
+    点击我
+  </InteractiveButton>
+</div>
+
+## 3. 代码展示
+
+如果你想展示代码而不是执行它，用代码围栏：
+
+```tsx
+import React from 'react';
+
+function MyComponent() {
+  return <div>Hello World</div>;
+}
+```
+
+## 4. 数学公式
+
+行内公式：$E = mc^2$
+
+块级公式：
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
+
+## 5. 表格
+
+| 特性 | Markdown | MDX |
+|------|----------|-----|
+| 文本 | ✅ | ✅ |
+| 代码高亮 | ✅ | ✅ |
+| React 组件 | ❌ | ✅ |
+
+## 总结
+
+- **Markdown (`.md`)**: 只能显示静态内容，代码块只是展示
+- **MDX (`.mdx`)**: 可以执行 React 组件，实现交互
+- 点击上面的按钮试试！

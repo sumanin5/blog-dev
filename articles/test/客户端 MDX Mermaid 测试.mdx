@@ -1,0 +1,68 @@
+---
+allow_comments: true
+author_id: 019bf51f-04fb-75b8-8d9a-2e910fee7111
+category_id: 019bf54f-21c2-7dca-9659-7f57a46140ef
+date: '2026-01-25 21:21:45'
+enable_jsx: true
+is_featured: false
+meta_description: ''
+meta_keywords: ''
+meta_title: ''
+slug: test-client-mermaid-7brmn8-5ttw78-zo6yvg
+status: published
+summary: '客户端 MDX Mermaid 测试 这个文件使用 enablejsx: true，由客户端渲染。 测试 Mermaid 流程图 测试交互按钮
+  点击测试 JSX 测试代码高亮 测试数学公式 行内公式： 块级公式： 总结 如果你能看到： - ✅ 流程图正常显示 - ✅ 按钮可以点击并弹出 alert -
+  ✅ 代码高亮正常 - ✅ 数学公式正常 说明客户端 MDX 渲染完全正常！'
+tags:
+- mermaid
+- Client
+title: 客户端 MDX Mermaid 测试
+use_server_rendering: false
+---
+
+# 客户端 MDX Mermaid 测试
+
+这个文件使用 `enable_jsx: true`，由客户端渲染。
+
+## 测试 Mermaid 流程图
+
+```mermaid
+graph LR
+    A[客户端] --> B{MDX 渲染}
+    B -->|成功| C[显示流程图]
+    B -->|失败| D[报错]
+```
+
+## 测试交互按钮
+
+<InteractiveButton message="客户端 JSX 按钮">
+  点击测试 JSX
+</InteractiveButton>
+
+## 测试代码高亮
+
+```javascript
+function test() {
+  console.log('客户端渲染测试');
+}
+```
+
+## 测试数学公式
+
+行内公式：$E = mc^2$
+
+块级公式：
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
+
+## 总结
+
+如果你能看到：
+- ✅ 流程图正常显示
+- ✅ 按钮可以点击并弹出 alert
+- ✅ 代码高亮正常
+- ✅ 数学公式正常
+
+说明客户端 MDX 渲染完全正常！
