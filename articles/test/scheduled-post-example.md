@@ -14,8 +14,8 @@ slug: scheduled-post-example-lax0ir
 status: published
 summary: 这是一篇定时发布的示例文章，将在 2026年2月15日 10:00 自动发布
 tags:
-- 定时发布
 - 测试
+- 定时发布
 title: 定时发布示例文章
 use_server_rendering: true
 ---
