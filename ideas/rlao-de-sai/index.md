@@ -2,6 +2,7 @@
 hidden: false
 order: 1
 title: RL 奥德赛
+excerpt: 欢迎来到强化学习的奇妙世界！探索从 MDP 基础到前沿算法的完整学习路径，理论与实践相结合。
 ---
 
 # RL 奥德赛 - 强化学习探险之旅
