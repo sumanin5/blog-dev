@@ -1,8 +1,6 @@
 ---
-category_id: 019c180a-d131-7b46-9660-6aa6b71b87cd
 excerpt: 欢迎来到强化学习的奇妙世界！探索从 MDP 基础到前沿算法的完整学习路径，理论与实践相结合。
 hidden: false
-icon_id: 019c1802-133c-7f6e-b69c-9451f0270c58
 order: 1
 title: RL 奥德赛
 ---
