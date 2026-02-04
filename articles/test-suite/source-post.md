@@ -16,6 +16,6 @@ title: 测试源文章
 use_server_rendering: true
 ---
 
-欢迎阅读！[点击这里跳转到目标文章](/posts/target-test-post-ubvds6)。
+欢迎阅读！[点击这里跳转到目标文章](/posts/articles/target-test-post-ubvds6)。
 
 这是一个相对路径链接，同步后它应该被自动修复。
