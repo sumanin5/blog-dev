@@ -12,7 +12,7 @@ meta_title: ''
 slug: target-test-post-ubvds6
 status: draft
 summary: 这是被链接的目标文章内容。
-title: 测试目标文章
+title: 测试目标文章 - 缓存刷新验证
 use_server_rendering: true
 ---
 
