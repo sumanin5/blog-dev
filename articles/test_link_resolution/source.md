@@ -17,4 +17,4 @@ title: Link Source
 use_server_rendering: true
 ---
 
-[Go to Destination](./target.md)
+[Go to Destination](/posts/articles/link-destination-heo5kj)
