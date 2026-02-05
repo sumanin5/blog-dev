@@ -1,7 +1,0 @@
----
-hidden: false
-post_sort: published_at_desc
-title: Uncategorized
----
-
-Default Category
