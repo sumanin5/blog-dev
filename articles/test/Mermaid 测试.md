@@ -1,16 +1,16 @@
 ---
 allow_comments: true
 author: admin
-author_id: 019bf51f-04fb-75b8-8d9a-2e910fee7111
+author_id: 019c2cbc-4975-7a7a-8826-c1ae405e898d
 category: test
-category_id: 019bf54f-21c2-7dca-9659-7f57a46140ef
+category_id: 019c2cbc-8a63-7894-aa82-b5e607424de8
 date: '2026-01-25 21:21:45'
 enable_jsx: false
 is_featured: false
 meta_description: ''
 meta_keywords: ''
 meta_title: ''
-slug: test-mermaid-hqu4rg-ipx7vz-qx12th
+slug: test-mermaid-hqu4rg-ipx7vz-qx12th-8j1qpi
 status: published
 summary: Mermaid 流程图测试 测试完成。
 title: Mermaid 测试
