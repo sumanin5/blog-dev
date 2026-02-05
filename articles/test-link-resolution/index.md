@@ -1,7 +1,6 @@
 ---
 hidden: false
+order: 10
 post_sort: published_at_desc
-title: Uncategorized
+title: Test Link Resolution
 ---
-
-Default Category

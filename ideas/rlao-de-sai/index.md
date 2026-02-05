@@ -2,6 +2,7 @@
 excerpt: 欢迎来到强化学习的奇妙世界！探索从 MDP 基础到前沿算法的完整学习路径，理论与实践相结合。
 hidden: false
 order: 1
+post_sort: published_at_desc
 title: RL 奥德赛
 ---
 

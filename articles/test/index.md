@@ -1,5 +1,6 @@
 ---
 hidden: false
+post_sort: title_asc
 title: Test
 ---
 
