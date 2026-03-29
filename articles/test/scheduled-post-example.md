@@ -3,7 +3,7 @@ allow_comments: true
 author: admin
 author_id: 019c2cbc-4975-7a7a-8826-c1ae405e898d
 category: test
-category_id: 019c2cbc-8a63-7894-aa82-b5e607424de8
+category_id: 019d37cf-ab51-7bd7-a843-04ae8cdc4980
 date: '2026-02-15 10:00:00'
 enable_jsx: false
 is_featured: false
